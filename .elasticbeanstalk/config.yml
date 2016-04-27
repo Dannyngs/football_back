@@ -1,0 +1,11 @@
+branch-defaults:
+  master:
+    environment: football-back-dev
+    group_suffix: null
+global:
+  application_name: football_back
+  default_ec2_keyname: dannyng-aws
+  default_platform: Node.js
+  default_region: ap-southeast-1
+  profile: eb-cli
+  sc: git
